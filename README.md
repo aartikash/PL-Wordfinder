@@ -8,7 +8,7 @@
 6. type contexts and type environments
 
 
-#Similar names different meanings
+# Similar names different meanings
 1. type contexts and program contexts
 
 
