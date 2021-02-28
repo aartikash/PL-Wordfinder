@@ -5,7 +5,11 @@
 3. canonical form and normal forms
 4. syntactic sugar and macros
 5. Step-index type relation and logical relations
-6. 
+6. type contexts and type environments
+
+
+#Similar names different meanings
+1. type contexts and program contexts
 
 
 
