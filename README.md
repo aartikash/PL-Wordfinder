@@ -17,4 +17,4 @@
 1. Logical relations: proof technique to build a relation based on types to show a notion of equivalence
 2. Contextual equivalence
 3. Full abstraction
-4. 
+
