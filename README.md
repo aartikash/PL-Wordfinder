@@ -4,7 +4,7 @@
 2. type safety and type soundness: this is analogous to syntactic type safety and semantics type safety (controversial)
 3. canonical form and normal forms
 4. syntactic sugar and macros
-5. Step-index type relation and logical relations
+5. Step-index type relation and logical relations (not all)
 6. type contexts and type environments
 
 
