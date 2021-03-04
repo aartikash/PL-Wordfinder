@@ -18,3 +18,8 @@
 2. Contextual equivalence
 3. Full abstraction
 
+
+Other good sources:
+1. https://www.pls-lab.org/
+2. https://github.com/wilbowma/pl-thesaurus
+
