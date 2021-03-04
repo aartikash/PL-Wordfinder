@@ -4,12 +4,14 @@
 2. type safety and type soundness: this is analogous to syntactic type safety and semantics type safety (controversial)
 3. canonical form and normal forms
 4. syntactic sugar and macros
-5. Step-index type relation and logical relations (not all)
-6. type contexts and type environments
+5. type contexts and type environments
 
 
 # Similar names different meanings
 1. type contexts and program contexts
+
+# Words used interchangably in the community but should not be
+1. Step-index type relation and logical relations (not all LRs are sitr)
 
 
 
