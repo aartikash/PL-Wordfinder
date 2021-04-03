@@ -21,6 +21,9 @@
 3. Full abstraction
 
 
+#Compiler Correctness terms
+1. Homomorphic compilers -- These are compilers that have same syntax for the source and the target language. 
+
 Other good sources:
 1. https://www.pls-lab.org/
 2. https://github.com/wilbowma/pl-thesaurus
