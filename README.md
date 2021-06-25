@@ -30,6 +30,9 @@
 reduction that has an intedned goal to capture the operational semantics determined by the execution of an 
 implementation of a functional programming language. 
 2. Equational characterization: 
+3. Intensional: Relates to the internal content of a term or concept. Example: Ship -> Vehicle of conveynace on water 
+4. Extensional: Denotes applicability by naming the particular objects that it denotes. Example: Ship -> Battleship, Cargo, Sailing ships 
+and passenger ships. 
 
 
 Other good sources:
