@@ -25,6 +25,13 @@
 #Compiler Correctness terms
 1. Homomorphic compilers -- These are compilers that have same syntax for the source and the target language. 
 
+#General terminology
+1. Computational model: A computational model is a formal theory with a (usually determinstic) notion of 
+reduction that has an intedned goal to capture the operational semantics determined by the execution of an 
+implementation of a functional programming language. 
+2. Equational characterization: 
+
+
 Other good sources:
 1. https://www.pls-lab.org/
 2. https://github.com/wilbowma/pl-thesaurus
